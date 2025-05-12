@@ -1,0 +1,47 @@
+[
+  {
+    "userAt": "2025-05-12T15:46:21.292Z",
+    "fname": "Anut",
+    "lname": "Chur",
+    "email": "admin@mail.com",
+    "password": "1234",
+    "occupationCat": "Computer",
+    "occupation": "Software Developer"
+  },
+  {
+    "userAt": "2025-05-12T15:50:29.625Z",
+    "fname": "Test",
+    "lname": "er",
+    "email": "admin123@mail.com",
+    "password": "1234",
+    "occupationCat": "Scientific",
+    "occupation": "Engineer"
+  },
+  {
+    "userAt": "2025-05-12T15:51:17.767Z",
+    "fname": "Test",
+    "lname": "lname",
+    "email": "admin456@mail.com",
+    "password": "3456",
+    "occupationCat": "Scientific",
+    "occupation": "Biologist"
+  },
+  {
+    "userAt": "2025-05-12T16:20:31.756Z",
+    "fname": "Test",
+    "lname": "lname",
+    "email": "adminio@mail.com",
+    "password": "ๅ/-",
+    "occupationCat": "Computer",
+    "occupation": "Data Analyst"
+  },
+  {
+    "userAt": "2025-05-12T16:42:57.188Z",
+    "fname": "Anut",
+    "lname": "Chuatrakool",
+    "email": "aut.anud@gmail.com",
+    "password": "2549",
+    "occupationCat": "Computer",
+    "occupation": "Computer"
+  }
+]
