@@ -7,7 +7,7 @@ router.post('/login', (req,res) => {
 })
 
 router.post('/register', (req, res) => {
-    const response = userService.login(req.body)
+    const response = userService.register(req.body)
 })
 
 module.exports = router;
